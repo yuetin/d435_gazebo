@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>d435</name>
+  <version>0.0.0</version>
+  <description>this package only d435</description>
+  <maintainer email="ttpss91079@gmail.com">YUE-TING-LIU</maintainer>
+  <license>TODO</license>
+
+  <url type="website">http://___</url>
+  <author>YUE-TING-LIU</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <exec_depend>xacro</exec_depend>
+</package>
